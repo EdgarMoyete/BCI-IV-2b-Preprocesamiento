@@ -1,4 +1,4 @@
-# Preprocesamiento-BCI-IV-2a
+# Preprocesamiento-BCI-IV-2b
 ## El preprocesamiento es el siguiente:
 Subconjuntos.m --> Unir --> FiltroMedianaNaN.m --> Car.m --> FiltroPasaBanda.m --> AcomodarDatos.m
 
